@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
     <div>
       <nav>
-        <ul>
+        <ul className="flex justify-between w-[400px] mx-auto">
           <li>Home</li>
           <li>About</li>
           <li>Contact Me</li>

@@ -2,8 +2,8 @@ import React from "react";
 
 const Footer = () => {
   return (
-    <div>
-      <p>Awesome next-js learning</p>
+    <div className="flex justify-center bg-gray-500">
+      <p className="text-white">Awesome next-js learning</p>
     </div>
   );
 };
